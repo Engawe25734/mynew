@@ -1,0 +1,3 @@
+[submodule "mynew"]
+	path = mynew
+	url = https://github.com/Engawe25734/mynew.git
